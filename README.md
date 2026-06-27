@@ -340,7 +340,7 @@ applied-time-series-analysis-system/
 │
 ├── data/
 │
-├── images/
+├── image/
 │   ├── portfolio_cover_image.png
 │   ├── monthly_temperature_anomalies.png
 │   ├── annual_temperature_trend.png
